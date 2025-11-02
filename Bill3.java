@@ -9,7 +9,7 @@ public class Bill3 {
 		double a = (double)bill / 3;
 		double b = Math.ceil(a);
 		System.out.println("Dear " + name3 + 
-		", " + name2 + " and " + name1 + ": pay " + b + " Shekels each.");
+		", " + name2 + ", and " + name1 + ": pay " + b + " Shekels each.");
 	    // Replace this comment with the rest of your code   
 	}
 }
